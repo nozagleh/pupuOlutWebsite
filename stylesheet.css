@@ -1,0 +1,198 @@
+*{margin: 0; padding: 0;}
+html, html a{
+	-webkit-font-smoothing: antialiased !important;
+}
+body{
+	background-color:#f5f5f5;
+	font-family: 'Ubuntu Mono', 'Verdana', 'sans-serif';
+	font-size: 16px;
+}
+
+h1{
+	color:rgb(255,165,0);
+	text-align:center;
+}
+
+p{
+	font-family:"Times New Roman";
+	font-size:20px;
+}
+
+.white{
+	color: #fff;
+}
+
+.navbar{
+	width: 100%;
+	height: 80px;
+	background-color: #353535;
+}
+
+.nav{
+	width: 1020px;
+	margin: 0 auto;
+}
+
+nav{
+	float: right;
+	font-size: 1em;
+	margin-top: 20px;
+
+}
+nav a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-right: 15px;
+	display: inline-block;
+}
+
+.logo{
+	float: left;
+	font-size: 2em;
+	margin-top: 24px;
+}
+
+.download{
+	background-color: rgb(255,165,0);
+	height: 40px;
+	width: 100px;
+	text-align: center;
+	line-height: 40px;
+}
+
+div#wrapper{
+	margin:0 auto;
+	width:500px;
+}
+
+.box{
+	height: 600px;
+	width: 100%;
+}
+.box h1,h2,p{
+	font-family: 'Anonymous Pro', ;
+	text-transform: uppercase;
+	color: #2d2d2d;
+}
+.box h1{
+	font-weight: 700;
+	font-size: 38;
+}
+.box h2{
+	font-weight: 400;
+	border-top: 1px solid #2d2d2d;
+	font-size: 34px;
+}
+.box p{
+	font-weight: 400;
+	margin-top: 40px;
+}
+
+.text{
+	width: 800px;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 30px;
+}
+
+#mainIMG{
+	display: block;
+	width: 345px;
+	margin: 0 auto;
+}
+
+#allIMG{
+	display: block;
+	width: 1020px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+.bg{
+	background: url('bgpanel.png') repeat 3.4% 3.4%;
+}
+
+.heading{
+	width: 400px;
+	margin: 0 auto;
+	padding-top: 120px;
+	text-align: center;
+}
+
+.downButton{
+	display: block;
+	height: 50px;
+	width: 50px;
+	background-color: rgb(255,165,0);
+	color: #2d2d2d;
+	margin: 0 auto;
+	font-size: 3em;
+	text-align: center;
+	border-radius: 50px;
+}
+
+.blank{
+	height: 600px;
+	width: 345px;
+	background: url('blank.png') no-repeat;
+	margin: 0 auto;
+}
+.blank video{
+	height: 400px;
+	width: 210px;
+	margin-left: 65px;
+	margin-top: 100px;
+}
+
+.list{
+
+}
+
+.list ul{
+	list-style: none;
+	padding-top: 120px;
+	font-size: 22px;
+}
+
+.listheading{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.line{
+	height: 1px;
+	display: block;
+	background-color: #2d2d2d;
+	margin-top: 40px;
+}
+
+.footer{
+	width: 100%;
+	height: 60px;
+	background-color: #ef5e1f;
+}
+
+.footer ul{
+	width: 100%;
+	text-align: center;
+	padding-top: 21px;
+}
+.footer ul li{
+	display: inline-block;
+	font-size: 18px;
+	padding-right: 40px;
+	padding-left: 40px;
+	border-right: 1px solid #2d2d2d;
+}
+.footer ul li:first-child{
+	border-left: 1px solid #2d2d2d;
+}
+
+
+
+
+
+
+
+
